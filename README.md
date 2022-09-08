@@ -7,3 +7,6 @@ What the application looks like
 
 Transaction going through
 ![Ganache Screenshot](https://user-images.githubusercontent.com/98198920/187571165-bc41b4ba-8b56-42aa-97c1-5fa1e3162fe9.png)
+
+## Contributors
+Jeremy Pierce
